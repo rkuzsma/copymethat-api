@@ -1,0 +1,30 @@
+{
+  "name": "copymethat-api",
+  "version": "1.0.0",
+  "description": "Unofficial NodeJS module to use copymethat with an API.",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkuzsma/copymethat-api.git"
+  },
+  "keywords": [
+    "cmt",
+    "copymethat",
+    "copy",
+    "me",
+    "that"
+  ],
+  "author": "Rich Kuzsma",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rkuzsma/copymethat-api/issues"
+  },
+  "homepage": "https://github.com/rkuzsma/copymethat-api#readme",
+  "dependencies": {
+    "fetch-cookie": "^2.1.0",
+    "node-fetch": "^3.2.10"
+  }
+}
